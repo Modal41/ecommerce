@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "66af6349c9487e4a72bab1b8"
+  },
+  "orderCartInfo": [
+    {
+      "id": "66ab64948cd4c9a00e40cfe2",
+      "name": "4 Kişilik Serpme Kahvaltı",
+      "price": 350,
+      "image": "/assets/img/foods/kahvalti.png",
+      "quantity": 2,
+      "itemTotal": 700
+    }
+  ],
+  "orderStatus": "Hazırlanıyor",
+  "orderUserInfo": {
+    "name": "Cihan",
+    "surname": "Sulu",
+    "email": "cihan.tr2@gmail.com",
+    "phone": "05519542870",
+    "city": "Kocaeli",
+    "district": "Çayırova",
+    "adress": "asdasdasdas"
+  },
+  "__v": 0
+}]

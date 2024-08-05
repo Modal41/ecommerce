@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "66ab5ef28cd4c9a00e40cfda"
+  },
+  "categoryName": "Kahvaltı"
+},
+{
+  "_id": {
+    "$oid": "66ab5f058cd4c9a00e40cfdb"
+  },
+  "categoryName": "Çorba"
+},
+{
+  "_id": {
+    "$oid": "66ab5f0d8cd4c9a00e40cfdc"
+  },
+  "categoryName": "Ana Yemek"
+},
+{
+  "_id": {
+    "$oid": "66ab5f168cd4c9a00e40cfdd"
+  },
+  "categoryName": "Soğuk İçecekler"
+},
+{
+  "_id": {
+    "$oid": "66ab5f1f8cd4c9a00e40cfde"
+  },
+  "categoryName": "Sıcak İçecekler"
+}]

@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "66ab64658cd4c9a00e40cfe1"
+  },
+  "name": "2 Kişilik Serpme Kahvaltı",
+  "price": 149,
+  "category": "Kahvaltı",
+  "image": "/assets/img/foods/kahvalti.png"
+},
+{
+  "_id": {
+    "$oid": "66ab64948cd4c9a00e40cfe2"
+  },
+  "name": "4 Kişilik Serpme Kahvaltı",
+  "price": 350,
+  "category": "Kahvaltı",
+  "image": "/assets/img/foods/kahvalti.png"
+},
+{
+  "_id": {
+    "$oid": "66ab649e8cd4c9a00e40cfe3"
+  },
+  "name": "Tek Kişilik Van Kahvaltı",
+  "price": 699,
+  "category": "Kahvaltı",
+  "image": "/assets/img/foods/kahvalti.png"
+},
+{
+  "_id": {
+    "$oid": "66ab64b58cd4c9a00e40cfe4"
+  },
+  "name": "Mercimek Çorbası",
+  "price": 89,
+  "category": "Çorba",
+  "image": "/assets/img/foods/corba.webp"
+},
+{
+  "_id": {
+    "$oid": "66ab64c58cd4c9a00e40cfe5"
+  },
+  "name": "Tavuk Çorbası",
+  "price": 99,
+  "category": "Çorba",
+  "image": "/assets/img/foods/corba.webp"
+},
+{
+  "_id": {
+    "$oid": "66ab64d28cd4c9a00e40cfe6"
+  },
+  "name": "Tavuk Izgara",
+  "price": 255,
+  "category": "Ana Yemek",
+  "image": "/assets/img/foods/anayemek.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ab64e18cd4c9a00e40cfe7"
+  },
+  "name": "Tavuk Kanat",
+  "price": 299,
+  "category": "Ana Yemek",
+  "image": "/assets/img/foods/anayemek.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ab64ef8cd4c9a00e40cfe8"
+  },
+  "name": "Kola",
+  "price": 49,
+  "category": "Soğuk İçecekler",
+  "image": "/assets/img/foods/kola.jpeg"
+},
+{
+  "_id": {
+    "$oid": "66ab64fc8cd4c9a00e40cfe9"
+  },
+  "name": "Çay",
+  "price": 149,
+  "category": "Sıcak İçecekler",
+  "image": "/assets/img/foods/sicak.jpg"
+}]
